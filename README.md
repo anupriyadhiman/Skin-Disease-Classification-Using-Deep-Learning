@@ -1,4 +1,4 @@
-# Skin-Disease-Classification-Using-Deep-Learning
+Skin-Disease-Classification-Using-Deep-Learning
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction 
 

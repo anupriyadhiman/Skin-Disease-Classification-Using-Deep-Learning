@@ -1,4 +1,4 @@
-Skin-Disease-Classification-Using-Deep-Learning
+**Skin-Disease-Classification-Using-Deep-Learning
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction 
 
@@ -14,3 +14,4 @@ Selected image dataset, which is labeled dataset. Below are some samples of from
 The source of the dataset is provided below for your ready reference: 
 Source: https://www.kaggle.com/datasets/ismailpromus/skin-diseases-imagedataset
 
+**
